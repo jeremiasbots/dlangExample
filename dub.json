@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"jeremiasbots"
+	],
+	"copyright": "Copyright © 2025, jeremiasbots",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "example"
+}
